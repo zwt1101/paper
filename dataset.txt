@@ -1,0 +1,13 @@
+#Flickr8k Images and Captions
+https://github.com/jbrownlee/Datasets/releases/download/Flickr8k/Flickr8k_Dataset.zip
+https://github.com/jbrownlee/Datasets/releases/download/Flickr8k/Flickr8k_text.zip
+# Flickr8k Audio
+https://groups.csail.mit.edu/sls/downloads/flickraudio/downloads/flickr_audio.tar.gz
+
+# Spoken COCO Audio
+https://huggingface.co/speechclip/models/resolve/main/ksplit.tar.gz
+https://data.csail.mit.edu/placesaudio/SpokenCOCO.tar.gz
+# Spoken COCO Images
+http://images.cocodataset.org/zips/train2014.zip
+http://images.cocodataset.org/zips/val2014.zip
+
